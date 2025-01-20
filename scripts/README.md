@@ -1,0 +1,1 @@
+- `kill_resource_groups.ps1`: Script to clean up leftover resource groups from Azure.
