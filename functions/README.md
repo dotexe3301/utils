@@ -1,0 +1,1 @@
+- `objectTypes.js`: Function to get data types of an javascript object
